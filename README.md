@@ -9,11 +9,11 @@
 
 - 👨‍💻 My most recent project, BobaBlitz, is available at [Glitch](https://bobablitz.glitch.me/)
 
-- 📫 How to reach me **michelleakem6@gmail.com**
+- 📫 How to reach me: **michelleakem6@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1f1IdTOcHzw5ZfHJyw4ZZZYo3a2NAZLcCVd_9H1paK3Y/edit?usp=sharing](https://docs.google.com/document/d/1f1IdTOcHzw5ZfHJyw4ZZZYo3a2NAZLcCVd_9H1paK3Y/edit?usp=sharing)
+- 📄 Know about my experiences: [https://docs.google.com/document/d/1f1IdTOcHzw5ZfHJyw4ZZZYo3a2NAZLcCVd_9H1paK3Y/edit?usp=sharing](https://docs.google.com/document/d/1f1IdTOcHzw5ZfHJyw4ZZZYo3a2NAZLcCVd_9H1paK3Y/edit?usp=sharing)
 
-- ⚡ Fun fact **I love pears.**
+- ⚡ Fun fact: **I love pears.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
