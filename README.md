@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: **I love pears and the SET game.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [LinkedIn](https://www.linkedin.com/in/michelle-akem/)</h3>
 <p align="left">
 </p>
 
