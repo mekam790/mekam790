@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Michelle Akem</h1>
 <h3 align="center">A motivated student programmer from Maryland</h3>
 
-- 🔭 I’m currently working on [Dialectable](https://www.figma.com/file/dZ5nxYc1qTmLZOZiouQy5n/Dialectable?type=design&node-id=0%3A1&mode=design&t=FARxWP7NbmUueF5d-1)
+- 🔭 I’m currently working on [Dialectable](https://github.com/mekam790/Dialectable/tree/main)
 
 - 🌱 I’m currently learning **React Native, Azure**
 
-- 🤝 I’m looking for help with [Dialectable](https://www.figma.com/file/dZ5nxYc1qTmLZOZiouQy5n/Dialectable?type=design&node-id=0%3A1&mode=design&t=FARxWP7NbmUueF5d-1)
+- 🤝 I’m looking for help with [Dialectable](https://github.com/mekam790/Dialectable/tree/main)
 
 - 👨‍💻 My most recent project, BobaBlitz, is available at [Glitch](https://bobablitz.glitch.me/)
 
 - 📫 How to reach me: **michelleakem6@gmail.com**
 
-- 📄 Know about my experiences: [https://docs.google.com/document/d/1f1IdTOcHzw5ZfHJyw4ZZZYo3a2NAZLcCVd_9H1paK3Y/edit?usp=sharing](https://docs.google.com/document/d/1f1IdTOcHzw5ZfHJyw4ZZZYo3a2NAZLcCVd_9H1paK3Y/edit?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1vu2wQZvq0Qaq9eyEi_27bLLObANjhbE7/edit?usp=sharing&ouid=101723881839225145281&rtpof=true&sd=true)
 
-- ⚡ Fun fact: **I love pears.**
+- ⚡ Fun fact: **I love pears and the SET game.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
