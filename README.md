@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Michelle Akem</h1>
 <h3 align="center">A motivated student programmer from Maryland</h3>
 
-- 🔭 I’m currently working on [Dialectable](https://github.com/mekam790/Dialectable/tree/main)
+- 🔭 I’m currently working on [Dialectable](https://github.com/mekam790/DApp)
 
 - 🌱 I’m currently learning **React Native, Azure**
 
-- 🤝 I’m looking for help with [Dialectable](https://github.com/mekam790/Dialectable/tree/main)
+- 🤝 I’m looking for help with [Dialectable](https://github.com/mekam790/DApp)
 
 - 👨‍💻 My most recent project, BobaBlitz, is available at [Glitch](https://bobablitz.glitch.me/)
 
