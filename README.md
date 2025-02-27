@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [Dialectable](https://github.com/mekam790/DApp)
 
-- 👨‍💻 My most recent project, BobaBlitz, is available at [Replit](https://boba-blitz-mellem730.replit.app/)
+- 👨‍💻 My most recent project, BobaBlitz, is available at [Glitch]((https://bobablitz.glitch.me/))
 
 - 📫 How to reach me: **michelleakem6@gmail.com**
 
